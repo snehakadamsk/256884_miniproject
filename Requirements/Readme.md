@@ -15,4 +15,12 @@ Cost of encryption at the sender side and that of decryption at the receiver sid
 
 Features include information security and safe transmission of data.
 
+Definition of the System:
+The System takes the text to be encrypted as the input and the required key and encrypts the data according to the algorithm as selected.
+At the receiver end, the data is decrypted with cipher text as the input.
+The system generates key in certain techniques.
+
+SWOT ANALYSIS
+
+4'W 1'H
 
