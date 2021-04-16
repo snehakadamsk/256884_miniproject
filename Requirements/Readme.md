@@ -24,3 +24,17 @@ SWOT ANALYSIS
 
 4'W 1'H
 
+WHO
+Any company, military services etc
+
+WHAT
+Encrypt data for secure transmission
+
+WHEN
+During Communication of information
+
+WHERE
+For any communication in the world
+
+HOW
+Following various algorithms
